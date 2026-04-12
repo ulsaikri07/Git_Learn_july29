@@ -22,7 +22,7 @@ Match user Iamspiderman
 	kbdInteractiveAuthentication yes
 
 Host *
-#  ForwardAgent no
+#   ForwardAgent no
 #   ForwardX11 no
 #   ForwardX11Trusted yes
 #   PasswordAuthentication yes
